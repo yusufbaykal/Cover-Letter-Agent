@@ -1,0 +1,7 @@
+env
+.gradio
+FirstAgentHugginface.egg-info
+uploads
+build
+__pycache__
+tools/__pycache__

@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: FirstAgentHugginface
+Version: 0.1.0
+License-File: LICENSE
+Requires-Dist: markdownify
+Requires-Dist: smolagents==1.8.1
+Requires-Dist: requests
+Requires-Dist: duckduckgo_search
+Requires-Dist: pandas
+Requires-Dist: gradio
+Requires-Dist: pytz
+Requires-Dist: PdfReader
+Requires-Dist: PyPDF2
+Dynamic: requires-dist

@@ -1,0 +1,9 @@
+markdownify
+smolagents==1.8.1
+requests
+duckduckgo_search
+pandas
+gradio
+pytz
+PdfReader
+PyPDF2

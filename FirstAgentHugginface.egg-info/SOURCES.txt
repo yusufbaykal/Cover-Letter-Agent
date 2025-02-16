@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+FirstAgentHugginface.egg-info/PKG-INFO
+FirstAgentHugginface.egg-info/SOURCES.txt
+FirstAgentHugginface.egg-info/dependency_links.txt
+FirstAgentHugginface.egg-info/requires.txt
+FirstAgentHugginface.egg-info/top_level.txt
